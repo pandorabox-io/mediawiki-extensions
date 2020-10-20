@@ -1,0 +1,26 @@
+[submodule "auth_proxy_app"]
+	path = auth_proxy_app
+	url = https://github.com/minetest-auth-proxy/auth_proxy_app
+[submodule "CategoryTree"]
+	path = CategoryTree
+	url = https://github.com/wikimedia/mediawiki-extensions-CategoryTree
+	branch = REL1_35
+[submodule "Cite"]
+	path = Cite
+	url = https://github.com/wikimedia/mediawiki-extensions-Cite
+	branch = REL1_35
+[submodule "CiteThisPage"]
+	path = CiteThisPage
+	url = https://github.com/wikimedia/mediawiki-extensions-CiteThisPage
+	branch = REL1_35
+[submodule "CodeEditor"]
+	path = CodeEditor
+	url = https://github.com/wikimedia/mediawiki-extensions-CodeEditor
+	branch = REL1_35
+[submodule "ConfirmEdit"]
+	path = ConfirmEdit
+	url = https://github.com/wikimedia/mediawiki-extensions-ConfirmEdit
+	branch = REL1_35
+[submodule "DiscordNotifications"]
+	path = DiscordNotifications
+	url = https://github.com/kulttuuri/DiscordNotifications.git
